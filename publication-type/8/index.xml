@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Fitsum Reda</title>
-    <link>https://fitsumreda.github.io/publication-type/1/</link>
-      <atom:link href="https://fitsumreda.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
-    <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <title>8 | Fitsum Reda</title>
+    <link>https://fitsumreda.github.io/publication-type/8/</link>
+      <atom:link href="https://fitsumreda.github.io/publication-type/8/index.xml" rel="self" type="application/rss+xml" />
+    <description>8</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://fitsumreda.github.io/media/icon_hua01320039ca950683b9ff71e80af8e3a_40680_512x512_fill_lanczos_center_3.png</url>
-      <title>1</title>
-      <link>https://fitsumreda.github.io/publication-type/1/</link>
+      <title>8</title>
+      <link>https://fitsumreda.github.io/publication-type/8/</link>
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://fitsumreda.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://fitsumreda.github.io/publication/example/</guid>
+      <title>Automated measurement based on deep learning</title>
+      <link>https://fitsumreda.github.io/patent/us10685438b2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fitsumreda.github.io/patent/us10685438b2/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
