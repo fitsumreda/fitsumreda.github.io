@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Fitsum Reda</title>
+    <link>https://fitsumreda.github.io/publication/</link>
+      <atom:link href="https://fitsumreda.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://fitsumreda.github.io/media/icon_hua01320039ca950683b9ff71e80af8e3a_40680_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://fitsumreda.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Automatic segmentation of articulated structures</title>
+      <link>https://fitsumreda.github.io/publication/us9286688b2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fitsumreda.github.io/publication/us9286688b2/</guid>
+      <description>&lt;!-- ---
+title: &#34;Automated measurement based on deep learning&#34;
+
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
+# and it will be replaced with their full name and linked to their profile.
+# authors:
+# - admin
+# - at al.
+
+# Author notes (optional)
+# author_notes:
+# - &#34;Equal contribution&#34;
+# - &#34;Equal contribution&#34;
+
+# date: &#34;2013-07-01T00:00:00Z&#34;
+# doi: &#34;&#34;
+
+# # Schedule page publish date (NOT publication&#39;s date).
+# publishDate: &#34;2017-01-01T00:00:00Z&#34;
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: [&#34;8&#34;]
+
+# Publication name and optional abbreviated publication name.
+publication: In *Wowchemy Conference*
+publication_short: US Patent No. 10685438 B2
+
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+tags: []
+
+# Display this page in the Featured widget?
+featured: true
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: &#39;https://patents.google.com/patent/US10685438B2/en?inventor=Fitsum+Reda&amp;oq=Fitsum+Reda&#39;
+url_code: &#39;&#39;
+url_dataset: &#39;&#39;
+url_poster: &#39;&#39;
+url_project: &#39;&#39;
+url_slides: &#39;&#39;
+url_source: &#39;&#39;
+url_video: &#39;&#39;
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page&#39;s folder. 
+image:
+  caption: &#39;Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)&#39;
+  focal_point: &#34;&#34;
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project&#39;s folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- US10685438B2
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck&#39;s filename without extension.
+#   E.g. `slides: &#34;example&#34;` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: &#34;&#34;`.
+slides: US10685438B2
+---
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
